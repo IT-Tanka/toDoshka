@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/toDoshka/static/css/main.fd248c05.css",
+    "main.css": "/toDoshka/static/css/main.7be49148.css",
     "main.js": "/toDoshka/static/js/main.cc6d5e8b.js",
     "index.html": "/toDoshka/index.html",
-    "main.fd248c05.css.map": "/toDoshka/static/css/main.fd248c05.css.map",
+    "main.7be49148.css.map": "/toDoshka/static/css/main.7be49148.css.map",
     "main.cc6d5e8b.js.map": "/toDoshka/static/js/main.cc6d5e8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd248c05.css",
+    "static/css/main.7be49148.css",
     "static/js/main.cc6d5e8b.js"
   ]
 }
