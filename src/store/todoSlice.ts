@@ -20,7 +20,6 @@ const todoSlice = createSlice({
   initialState,
   reducers: {
     addTodo(state, action: PayloadAction<Array<string>>) {
-      console.log("Payloadaction : ", action);
       state.list.push({
         id: (state.list.length + 1).toString(),
         title: action.payload[0],
